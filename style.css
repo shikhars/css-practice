@@ -6,8 +6,10 @@
 
 h2 {
     font-size: 2rem;
+    margin-top: 1rem;
     margin-bottom: 1rem;
     color: burlywood;
+    text-align: center;
 }
 
 
@@ -15,9 +17,4 @@ button {
     padding: 10px 20px;
     text-align: center;
     background-color: bisque;
-}
-
-.success {
-    text-align: center;
-    margin-top: 1rem;
 }
